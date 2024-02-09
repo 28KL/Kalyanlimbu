@@ -236,7 +236,7 @@ body { background: var(--smoky-black); }
 }
 
 .container {
-  margin: 110px;
+  margin: 110px auto;
   perspective: 1000px;
   perspective-origin: 50% 50%;
   }
