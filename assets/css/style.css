@@ -666,7 +666,7 @@ main {
 
 .service { margin-bottom: 35px; }
 
-.service-title { margin-bottom: 20px; }
+.service-title { margin-bottom: 0px 20px 0px 0px; }
 
 .service-list {
   display: grid;
