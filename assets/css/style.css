@@ -683,16 +683,6 @@ main {
   z-index: 1;
 }
 
-.service-item_1{
-  position: relative;
-  background: var(--border-gradient-onyx);
-  padding: 30px;
-  margin: auto;
-  border-radius: 14px;
-  box-shadow: var(--shadow-2);
-  z-index: 1;
-}
-
 .service-item::before {
   content: "";
   position: absolute;
@@ -703,6 +693,8 @@ main {
 }
 
 .service-icon-box { margin-bottom: 10px; }
+.service-icon-box_1 { margin:auto; }
+
 
 .service-icon-box img { margin: auto; }
 
