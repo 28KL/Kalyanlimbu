@@ -666,7 +666,7 @@ main {
 
 .service { margin-bottom: 35px; }
 
-.service-title { margin-bottom: 0px 20px 0px 0px; }
+.service-title { margin-bottom: 20px; }
 
 .service-list {
   display: grid;
@@ -693,7 +693,7 @@ main {
 }
 
 .service-icon-box { margin-bottom: 10px; }
-.service-icon-box_1 { margin:auto; }
+.service-icon-box_1 { margin:0px 20px 0px 0px; }
 
 
 .service-icon-box img { margin: auto; }
